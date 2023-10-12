@@ -1,0 +1,22 @@
+.app-bar {
+  background-color: #499c98 !important;
+}
+
+.toolbar {
+  text-align: center;
+}
+
+.button-search {
+  display: flex !important;
+  align-items: center;
+}
+
+.input-base {
+  padding-left: 0.5rem;
+  color: white !important;
+  margin: 0 0.5rem !important;
+}
+
+.typography {
+  font-size: 2rem;
+}

@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<title>iconFacebook</title>
+	<defs>
+		<image  width="24" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAAXNSR0IB2cksfwAAAHtQTFRFAAAAPz+/Pk+1P1K0P0+0PlG0P1G1QVGzP1C1VVWqP1GzP0+ze4jMxMro3+Lz5ej10NXtc4DJ/v7/////5+n2tLvi6Ov2t73jpKzcys/ri5bSz9Psh5PRp6/d+fr97/H5xcrpvcPlsrnh7O74fIjNqLHezNHrdIHJP1G0CKASPQAAACl0Uk5TAAQtRDDb/y/aAyxA/////////////////////////////////////9nLC3D3AAAAjElEQVR4nM2SzRKCMAyEA0pog1p1RVTwDxV9/ye0wMk2znh0T5n9dmYPWSJK0kmgNCGvacaRstznFZ/ZWBLNZxYqdFAEYDZfuKUCVmsAGwWUwLbaKWAPHNSOGmgUcHQn4OwuEagw6BqBpr0BdXv/veOPwMejHl33HC/58tqX9WMwsW/yfiZWwvmIz78BcCITHGlN9o0AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="3" y="3"/>
+</svg>

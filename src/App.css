@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.UserSection {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 2rem 0;
+}
+
+.UserSection img {
+  width: 15rem;
+  height: 25rem;
+}

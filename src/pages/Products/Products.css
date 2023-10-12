@@ -1,0 +1,17 @@
+.Products {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin: 2rem 0;
+}
+
+.imgMaintenance {
+  width: 50rem;
+}
+
+.Products h1 {
+  font-weight: 500;
+  margin-top: 1rem;
+}

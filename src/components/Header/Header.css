@@ -1,0 +1,42 @@
+header {
+  background-color: #eed9ac;
+}
+
+header .hero {
+  display: flex;
+  min-width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 1rem;
+}
+
+header .hero .container-logo {
+  display: flex;
+  align-items: center;
+}
+
+header a {
+  text-decoration: none;
+  color: black;
+  font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+}
+
+header img {
+  width: 7.5rem;
+  border-radius: 2rem;
+  margin-left: 0.5rem;
+}
+
+header .container-user {
+  width: 7.5rem;
+  border-radius: 2rem;
+  margin-left: 0.5rem;
+}
+
+header .iconUser {
+  font-size: 5rem;
+  color: #499c98;
+  padding-right: 1rem;
+}
