@@ -1,0 +1,17 @@
+.CardPrice {
+  color: rgb(48, 44, 44);
+  text-decoration: none !important;
+  font-size: 1rem;
+}
+
+.CartSharpIcon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom-card-media {
+  /* Aquí puedes agregar tus estilos personalizados */
+  max-width: 100%;
+  /* Ejemplo de estilo personalizado */
+}

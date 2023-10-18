@@ -13,7 +13,7 @@ import Home from "./pages/Home/Home";
 import Products from "./pages/Products/Products";
 import Designers from "./pages/Designers/Designers";
 import Account from "./pages/Account/Account";
-import CategoryPages from "./pages/Category/CategoryPages";
+import DetailPage from "./pages/DetailPage/DetailPage";
 
 const App = () => {
   return (
@@ -29,7 +29,7 @@ const App = () => {
           <Route path="/tiendas" element={<Stores />} />
           <Route path="/designers" element={<Designers />} />
           <Route path="/account" element={<Account />} />
-          <Route path="/category/:categoryId" element={<CategoryPages />} />
+          <Route path="detail/:id" element={<DetailPage />} />
         </Routes>
         <Footer />
       </div>

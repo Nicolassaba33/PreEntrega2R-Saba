@@ -1,5 +1,6 @@
 import { AppBar, Toolbar, Typography, Button, InputBase } from "@mui/material";
 import { Link } from "react-router-dom";
+
 import "./NavBar.css";
 const navbar = () => {
   return (
@@ -30,7 +31,21 @@ const navbar = () => {
               display: { xs: "none", sm: "block" },
             }}
           >
-            Productos
+            HOMBRES
+          </Typography>
+        </Link>
+        <Link to="/productos" className="nav-link">
+          <Typography
+            variant="h6"
+            noWrap
+            component="div"
+            sx={{
+              flexGrow: 1,
+              color: "white",
+              display: { xs: "none", sm: "block" },
+            }}
+          >
+            mujeres
           </Typography>
         </Link>
         <Link to="/tiendas" className="nav-link">

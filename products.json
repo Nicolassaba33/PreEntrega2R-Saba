@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "name": "Saco",
+    "img": "./src/assets/Images/Saco",
+    "gender": "Female",
+    "price": 25000
+  },
+  {
+    "id": 2,
+    "name": "Camisa",
+    "gender": "Female",
+    "price": 18000
+  },
+  {
+    "id": 3,
+    "name": "Buzo Multicolor",
+    "gender": "Male",
+    "price": 23000
+  },
+  {
+    "id": 4,
+    "name": "Pantalon Claro",
+    "gender": "Male",
+    "price": 21000
+  },
+  {
+    "id": 5,
+    "name": "Pantalon Celeste",
+    "gender": "Male",
+    "price": 20000
+  },
+  {
+    "id": 6,
+    "name": "Pantalon Ancho",
+    "gender": "Female",
+    "price": 15000
+  },
+  {
+    "id": 7,
+    "name": "Camisa Uva",
+    "gender": "Male",
+    "price": 16000
+  },
+  {
+    "id": 8,
+    "name": "Camisa Amarilla",
+    "gender": "Female",
+    "price": 17000
+  },
+  {
+    "id": 9,
+    "name": "Remera De Cuerdas",
+    "gender": ["Female", "Male"],
+    "price": 14000
+  },
+  {
+    "id": 10,
+    "name": "Conjunto Negro",
+    "gender": "Male",
+    "price": 23000
+  },
+  {
+    "id": 11,
+    "name": "Camisa Negra Raiz",
+    "gender": "Male",
+    "price": 16000
+  },
+  {
+    "id": 12,
+    "name": "Traje Cream",
+    "gender": ["Male", "Female"],
+    "price": 30000
+  },
+  {
+    "id": 13,
+    "name": "Camisa Artistica",
+    "gender": "Male",
+    "price": 17200
+  },
+  {
+    "id": 14,
+    "name": "Conjunto Boss",
+    "gender": "Male",
+    "price": 32000
+  },
+  {
+    "id": 15,
+    "name": "Vestido Elegant",
+    "gender": "Female",
+    "price": 52000
+  },
+  {
+    "id": 16,
+    "name": "Vestido Freedom",
+    "gender": "Female",
+    "price": 24000
+  },
+  {
+    "id": 17,
+    "name": "Vestido Blanco",
+    "gender": "Female",
+    "price": 25000
+  },
+  {
+    "id": 18,
+    "name": "Vestido Crem",
+    "gender": "Female",
+    "price": 25000
+  },
+  {
+    "id": 19,
+    "name": "Vestido Natural",
+    "gender": "Female",
+    "price": 21000
+  }
+]

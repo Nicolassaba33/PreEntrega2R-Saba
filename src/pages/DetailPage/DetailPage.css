@@ -1,0 +1,9 @@
+.Detail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Detail img {
+  width: 30rem;
+}
